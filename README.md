@@ -7,27 +7,27 @@
 <!-- Tech Stack Card -->
 <div align="center">
   
-  <table>
+  <table align="center" cellspacing="15">
     <tr>
-      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 5px;">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://www.python.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br/>
           <sub><b>Python</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://www.java.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/><br/>
           <sub><b>Java</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://www.php.net/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/><br/>
           <sub><b>PHP</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/><br/>
           <sub><b>HTML5</b></sub>
@@ -35,25 +35,25 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br/>
           <sub><b>CSS3</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/><br/>
           <sub><b>JavaScript</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://reactjs.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/><br/>
           <sub><b>React</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://getbootstrap.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/><br/>
           <sub><b>Bootstrap</b></sub>
@@ -61,13 +61,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://www.lua.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" alt="Lua"/><br/>
           <sub><b>Lua</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
         <a href="https://opencv.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" alt="OpenCV"/><br/>
           <sub><b>OpenCV</b></sub>
