@@ -9,7 +9,7 @@
   
   <table>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 5px;">
         <a href="https://www.python.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br/>
           <sub><b>Python</b></sub>
