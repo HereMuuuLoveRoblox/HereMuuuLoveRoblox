@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family:'Prompt', sans-serif;">💻 MuuuLoveCode</h1>
 
 <p align="center">
-  <b>🚀 Developer | 💡 Creative Coder | 🎮 Roblox Game Dev</b>
+  <b>🚀 Developer | 💡 Creative Coder</b>
 </p>
 
 ---
