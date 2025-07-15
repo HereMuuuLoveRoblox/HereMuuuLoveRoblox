@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Skill
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
@@ -33,7 +33,3 @@
 </p>
 
 ---
-
-<p align="center">
-  🚧 <i>Portfolio under construction... but code never stops!</i> 🛠️
-</p>
