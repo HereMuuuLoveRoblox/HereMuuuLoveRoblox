@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/avFFom5DnkMAAAAd/roblox-bacon-hair.gif"  />
+</div>
 <h1 align="center" style="font-family:'Prompt', sans-serif;">💻 MuuuLoveCode</h1>
 
 <p align="center">
