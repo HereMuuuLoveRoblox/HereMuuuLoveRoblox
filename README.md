@@ -7,8 +7,6 @@
 <p align="center" style="font-size:20px; font-weight:bold;">
   Backend Developer | Never Stop Learning
 </p>
-
-<h3 align="center" style="font-family:'Prompt', sans-serif;">Muu Contact</h3>
 <p align="center">
   <a href="https://www.facebook.com/jittakorn.tos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"/>
