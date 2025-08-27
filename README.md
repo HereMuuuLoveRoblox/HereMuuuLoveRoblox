@@ -23,7 +23,6 @@
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HereMuuuLoveRoblox&theme=react&show_icons=true&hide_border=true&count_private=true" height="165"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HereMuuuLoveRoblox&layout=compact&theme=react&hide_border=true" height="180" />
-      <img src="https://github-profile-trophy.vercel.app/?username=HereMuuuLoveRoblox&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" />
     </td>
   </tr>
 </table>
